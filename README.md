@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" height ="500" width="1000"/>
+  <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=1060&t=st=1676717649~exp=1676718249~hmac=6988e834b216c4d0ef63da9fb649289c068911038f5b94389a44ec6c68182c61" height ="500" width="1000"/>
 </div>
 
 
