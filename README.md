@@ -5,8 +5,6 @@
 
 
 
-
-
 ## ♾ Technology Stack 👇 
 <p align="center">
   <a href="https://skillicons.dev">
