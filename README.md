@@ -1,9 +1,4 @@
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
- 
  # <div align="center"> < I'm Kaushik 👋 /> </div>
 
 
@@ -33,11 +28,14 @@
 ##  ♾ My Stats 👇
 
 
- ![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KB-2000&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KB-2000&theme=dark&background=000000)](https://git.io/streak-stats)
+ ![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KB-2000&show_icons=true&theme=radical)
+                           [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KB-2000&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+                           <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
  
   ![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
  
