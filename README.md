@@ -1,5 +1,5 @@
 
-![Enthusiastic Web Developer](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)  ![Enthusiastic Web Developer](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)  
+![Enthusiastic Web Developer](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif) 
 
 # <div align="center"> < Hi, I'm Kaushik👋 /> </div>
 
