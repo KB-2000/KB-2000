@@ -1,6 +1,7 @@
-### Hi, I'm Kaushik👋
-#### Enthusiastic Web Developer
 ![Enthusiastic Web Developer](https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif)
+# Hi, I'm Kaushik👋
+## Enthusiastic Web Developer
+
 
 I'm MERN Stack Developer intern at Mascot Software Technologies at Kolhapur
 
