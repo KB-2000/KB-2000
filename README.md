@@ -10,7 +10,7 @@
 ## ♾ Technology Stack 👇 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,postgres,java,html,css,js,php,react,nodejs,npm,expressjs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,postgres,java,html,css,js,php,react,nodejs,nextjs,expressjs,mongodb,mysql" />
   </a>
 </p>
 
