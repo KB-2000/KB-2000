@@ -1,7 +1,10 @@
 
-<!-- ![Enthusiastic Web Developer](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)  -->
 
-# <div align="center"> < Hi, I'm Kaushik👋 /> </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+ 
+ # <div align="center"> < I'm Kaushik 👋 /> </div>
 
 
 
@@ -20,7 +23,7 @@
         - 🌱 currently learning NEXT.JS,TAILWIND CSS AND FRAMER MOTION  
         - 🤔 looking for help with MERN  
         - 💬 Ask me about Anything  
-      - 📫 How to reach me: kaushikbansode09@gmail.com  
+        - 📫 How to reach me: kaushikbansode09@gmail.com  
 
 
 ##  ♾ Socials 👇
@@ -30,10 +33,12 @@
 ##  ♾ My Stats 👇
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KB-2000&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=KB-2000)
+ ![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KB-2000&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KB-2000&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB-2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/KB-2000)  
+ 
+  ![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+ 
 
