@@ -10,7 +10,32 @@
 ## ♾ Technology Stack 👇 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,postgres,java,html,css,bootstrap,js,php,react,nodejs,expressjs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css" />
+  </a>
+</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,js,php,react" />
+  </a>
+</p>
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,expressjs,mongodb,mysql" />
+  </a>
+</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,intelij,pycharm,android" />
   </a>
 </p>
 
