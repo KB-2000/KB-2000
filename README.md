@@ -35,7 +35,7 @@
 </p>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,intelij,pycharm,android" />
+    <img src="https://skillicons.dev/icons?i=vscode,firebase,jquery,git,androidstudio,babel" />
   </a>
 </p>
 
