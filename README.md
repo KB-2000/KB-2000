@@ -63,7 +63,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
                            <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="100"/>
 </div>
  
   ![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
